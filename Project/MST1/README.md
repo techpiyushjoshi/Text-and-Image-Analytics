@@ -32,7 +32,7 @@ dataset
   - removing URLs
   - removing stopwords
   - stemming - Snowball Stemmer
-  - lemmatization - Wordnet
+  - lemmatization - Wordnet Lemmatizer
 - Step 3 : Feature Engineering - This step will involve creating vectors from text by vectorization techniques such as Bag of Words TF-IDF(Term Frequency Inverse Docuement Frequency)
 - Step 4 : Modelling - This step will involve modelling using K-Means Clustering
 - Step 5 : Evaluation - Evaluating the model using Silhouette score Davies Bouldin score
