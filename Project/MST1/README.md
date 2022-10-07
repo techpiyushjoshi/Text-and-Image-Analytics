@@ -1,6 +1,5 @@
 # Text Clustering using K-Means Clustering Algorithm, Bag of Words and Tf-IDF Vectorizer
-## Applied Tf-Idf Vectorizer and K-Means Algorithm to segment the articles fetched using requests library from Machine Learning Geek
----
+## Applied Tf-Idf Vectorizer and K-Means Algorithm to segment the articles fetched from API using requests library
 - Submitted By : By Piyush Joshi
 - Roll Number : DS5B-2121
 - Submitted To : Prof. Upendra Singh
